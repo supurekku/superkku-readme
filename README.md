@@ -1,5 +1,10 @@
-# superkku-readme
+# supurekku-readme
+
 some basic information about supurekku
+
+## supurekku名称来源
+
+supurekku是仙草的意思，本来用一个蠢萌的动物的名字的，但是这类的名字真的好火。`@Timing`建议使用仙草这个名字，想想也不错。
 
 ## 成员组成
 
