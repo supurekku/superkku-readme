@@ -12,11 +12,11 @@ supurekku是仙草的意思。本来想用一个蠢萌的动物的名字的，�
 
 ## Idea
 
-大家有什么好的想法，可以在这个项目中加一个markdown文件，简单阐述一下自己的想法，放在自己名字下面的文件夹下，比如：yinkn/*.md。在QQ群中得到大家的支持就可以开Repository（当然，没有得到支持也可以，但要做好孤军奋战的准备），有空的成员可以Contribute。添加的md文件要从这个README链过去，方便大家阅读，格式可以参考：
+大家有什么好的想法，可以在这个项目中加一个markdown文件(格式为：*- date.md)，简单阐述一下自己的想法，放在自己名字下面的文件夹下，比如：yinkn/*.md。在QQ群中得到大家的支持就可以开Repository（当然，没有得到支持也可以，但要做好孤军奋战的准备），有空的成员可以Contribute。添加的md文件要从这个README链过去，方便大家阅读，格式可以参考：
 
-- `README`[README](./README.md)
-- `README`[~~README(deprecated)~~](./README.md)
-- `README`[**README(passed)**](./README.md)
+- `README`[README-2017.11.11](./README.md)
+- `README`[~~README-2017.11.11(deprecated)~~](./README.md)
+- `README`[**README-2017.11.11(passed)**](./README.md)
 
 ## 交流方式
 
@@ -26,14 +26,23 @@ supurekku是仙草的意思。本来想用一个蠢萌的动物的名字的，�
 ## 代码质量
 
 为了大家提交的代码不坏掉，建议把CI，Coverage这些东西都玩起来，有几个资源可以免费使用的：
+
+CI:
+
 - [Travis CI](https://travis-ci.org)
+
 - [Appveyor](https://www.appveyor.com/)
+
+Code coverage:
+
 - [Coveralls](https://coveralls.io/)
+
 - [Codecov](https://codecov.io/)
+
 然后使用[Shieds](http://shields.io/)把以上的配置，加到README.md中。
 
 ## Idea list
 
 请将要添加的idea文档放在下面：
-- `README`[**README**](./README.md)
+- `README`[**README-2017.11.11**](./README.md)
 
