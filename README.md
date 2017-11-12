@@ -1,5 +1,7 @@
 # supurekku-readme
 
+[![Gitter](https://img.shields.io/gitter/room/supurekku/Lobby.svg)](https://gitter.im/supurekku/Lobby)
+
 some basic information about supurekku
 
 ## supurekku名称来源
